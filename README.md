@@ -42,7 +42,7 @@ No installer, no network access, runs fully local.
 
 ## 📥 Download
 
-👉 [Download NukeIT v1.1 (Windows)](https://drive.google.com/drive/folders/1ver5NqOLDj89V-4u0AYFLyTbf1lEu6ru)
+👉 [Download NukeIT v1.1 (Windows * No Install * Runs Local)](https://drive.google.com/drive/folders/1ver5NqOLDj89V-4u0AYFLyTbf1lEu6ru)
 
 ## 🔒 Safety
 
