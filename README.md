@@ -42,8 +42,16 @@ No installer, no network access, runs fully local.
 
 ## 📥 Download
 
-👉 [Download NukeIT v1.1](https://drive.google.com/drive/folders/1ver5NqOLDj89V-4u0AYFLyTbf1lEu6ru)
+👉 [Download NukeIT v1.1 (Windows)](https://drive.google.com/drive/folders/1ver5NqOLDj89V-4u0AYFLyTbf1lEu6ru)
 
+## 🔒 Safety
+
+- No internet access
+- No data collection
+- No background services
+- Runs entirely local
+
+You can verify this in the source code.
 ---
 
 ## 🖼️ Preview
