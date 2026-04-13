@@ -1,2 +1,68 @@
 # NukeIT
-NukeIT — Instant Screen Reset for Windows  Click the floating anchor → instantly closes all windows and replaces your screen with a believable dashboard.  Press ESC → return to normal.  • Fully local (no accounts, no network) • Multi-monitor support • Fast and deterministic
+# NukeIT — Instant Screen Reset for Windows
+
+NukeIT is a one-click panic button for your desktop.
+
+Click the floating anchor → instantly closes all windows and replaces your screen with a believable dashboard.
+
+Press ESC → return to normal.
+
+---
+
+## ⚡ What it does
+
+- Instantly closes all open applications
+- Replaces your screen with a realistic “SafeScreen”
+- Covers all monitors
+- Each monitor shows slightly different data (no obvious mirroring)
+- Runs fully local (no internet, no accounts)
+
+---
+
+## 🎮 Controls
+
+- **Left click** → Activate NukeIT  
+- **Click + hold** → Move anchor  
+- **Right click** → Remove anchor  
+- **ESC** → Exit SafeScreen  
+
+---
+
+## ⚠️ Warning
+
+NukeIT immediately closes all running applications.
+
+It does **not** restore them.
+
+Use intentionally.
+
+---
+
+## 📥 Download
+
+👉 [Download NukeIT v1.1_release]https://drive.google.com/file/d/1orss0GV5mbaCmz8Eb6LrgPCWqMiGLAS5/view?usp=drive_web
+
+---
+
+## 🖼️ Preview
+
+_Add 1–2 screenshots here (anchor + SafeScreen)_
+![IMG_0110](https://github.com/user-attachments/assets/551aa1df-e2ba-4c16-ad8e-9dda4150aeb2)
+![IMG_0107](https://github.com/user-attachments/assets/cd94cb0b-7c75-40db-8394-d57574926280)
+
+---
+
+## 💡 Why this exists
+
+Sometimes you need your screen to change instantly.
+
+NukeIT does exactly that—fast, local, and without friction.
+
+---
+
+## 🧪 Status
+
+v1.1 — Stable core release  
+More features coming based on real-world use.
+
+---
