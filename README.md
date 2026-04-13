@@ -43,6 +43,8 @@ No installer, no network access, runs fully local.
 ## 📥 Download
 
 👉 [Download NukeIT v1.1 (Windows * No Install * Runs Local)](https://drive.google.com/drive/folders/1ver5NqOLDj89V-4u0AYFLyTbf1lEu6ru)
+First run may trigger a Windows SmartScreen warning (unsigned app). This is expected.
+Click “More info” → “Run anyway”.
 
 ## 🔒 Safety
 
