@@ -38,9 +38,11 @@ Use intentionally.
 
 ---
 
+No installer, no network access, runs fully local.
+
 ## 📥 Download
 
-👉 [Download NukeIT v1.1_release]https://drive.google.com/file/d/1orss0GV5mbaCmz8Eb6LrgPCWqMiGLAS5/view?usp=drive_web
+👉 [Download NukeIT v1.1](https://drive.google.com/drive/folders/1ver5NqOLDj89V-4u0AYFLyTbf1lEu6ru)
 
 ---
 
