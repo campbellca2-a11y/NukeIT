@@ -23,14 +23,18 @@ Click "More info" → "Run anyway".
 
 1. Download the NukeIT zip file
 2. Extract the folder
-3. Double-click `NukeIT.exe  
+3. Double-click `NukeIT.exe`  
    → A small floating **"N" anchor** will appear on your screen. NukeIT is now armed and ready.
 4. Click the "N" anchor to activate NukeIT.
 
-The anchor appears in the **top-right corner** of your screen.
-It is a small, semi-transparent black box with the letter **"N"**.
-If you don’t immediately see it, look closely near the edge of your screen—it may be partially off-screen.
+**Anchor location:**
+
+- Appears in the **top-right corner** of your screen  
+- Small, semi-transparent black box with the letter **"N"**  
+- If not immediately visible, it may be partially off-screen  
+
 Click and hold the anchor to drag it fully into view.
+
 ---
 
 ## ⚡ How it works
