@@ -72,7 +72,7 @@ NukeIT immediately closes most running applications. It does **not** restore the
 - Some administrator-level (elevated) applications may not close
 - Windows Explorer remains open by design
 
-NukeIT prioritizes standard application windows and browsers first.
+NukeIT prioritizes closing standard application windows and browsers first.
 
 Use intentionally.
 
