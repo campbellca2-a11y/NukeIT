@@ -36,7 +36,7 @@ NukeIT is now armed and ready.
 
 To activate NukeIT, simply single click the "N" anchor. 
 
-So now the flow becomes: install → run → anchor appears → click to fire
+The flow becomes: install → run → anchor appears → click to fire
 
 ## ⚡ What it does
 
