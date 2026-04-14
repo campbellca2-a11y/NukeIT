@@ -43,7 +43,7 @@ Click and hold the anchor to drag it fully into view.
 2. **Click the anchor** → Closes most open applications and activates SafeScreen
 3. **Press ESC** → Exits SafeScreen and returns to normal
 
-The anchor automatically reappears after each use, keeping NukeIT armed. 
+The anchor automatically reappears after each use, keeping NukeIT armed and ready.
 
 **What SafeScreen does:**
 - Covers all monitors
