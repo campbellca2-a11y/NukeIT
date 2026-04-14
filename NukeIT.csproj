@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>NukeIT</AssemblyName>
+    <RootNamespace>NukeIT</RootNamespace>
+    <StartupObject>NukeIT.Program</StartupObject>
+    <Platforms>AnyCPU</Platforms>
+  </PropertyGroup>
+
+</Project>
