@@ -1,6 +1,6 @@
 # NukeIT — Instant Screen Reset for Windows
 
-(Previously referred to as “Nuke It From Space" and "NIFS” during development.)
+(Previously referred to as “Nuke It From Space” and “NIFS” during development.)
 
 NukeIT is a one-click panic button for your desktop.
 
@@ -23,14 +23,14 @@ Click "More info" → "Run anyway".
 
 1. Download the NukeIT zip file
 2. Extract the folder
-3. Double-click `NukeIT.exe`
-	A small floating **"N" anchor** will appear on your screen. NukeIT is now armed and ready.
-4.Then click the "N" anchor to activate NukeIT.
+3. Double-click `NukeIT.exe  
+   → A small floating **"N" anchor** will appear on your screen. NukeIT is now armed and ready.
+4. Click the "N" anchor to activate NukeIT.
 
-Please note: The anchor appears in the **top-right corner** of your screen.
-		     It is a small, semi-transparent black box with the letter **"N"**.
-		     If you don’t immediately see it, look closely near the edge of your screen—it may be partially off-screen.
-		     Click and hold the anchor to drag it fully into view.
+The anchor appears in the **top-right corner** of your screen.
+It is a small, semi-transparent black box with the letter **"N"**.
+If you don’t immediately see it, look closely near the edge of your screen—it may be partially off-screen.
+Click and hold the anchor to drag it fully into view.
 ---
 
 ## ⚡ How it works
@@ -39,7 +39,7 @@ Please note: The anchor appears in the **top-right corner** of your screen.
 2. **Click the anchor** → Closes most open applications and activates SafeScreen
 3. **Press ESC** → Exits SafeScreen and returns to normal
 
-The anchor automatically reappears after each use, keeping NukeIT armed.
+The anchor automatically reappears after each use, keeping NukeIT armed. 
 
 **What SafeScreen does:**
 - Covers all monitors
