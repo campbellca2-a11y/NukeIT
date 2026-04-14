@@ -60,7 +60,7 @@ The flow becomes: install → run → anchor appears → click to fire
 
 ## ⚠️ Warning
 
-NukeIT immediately closes all running applications.
+NukeIT immediately closes most running applications.
 
 It does **not** restore them.
 
