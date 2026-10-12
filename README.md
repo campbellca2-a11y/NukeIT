@@ -1,3 +1,5 @@
+<img width="2752" height="1536" alt="NukeIt_Logo_v1_Gemini" src="https://github.com/user-attachments/assets/ded49cbb-dd0b-4513-9536-b63513934a5f" />
+
 # NukeIT — Instant Screen Reset for Windows
 
 (Previously referred to as “Nuke It From Space” and “NIFS” during development.)
