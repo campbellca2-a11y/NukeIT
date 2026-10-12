@@ -52,6 +52,18 @@ The anchor automatically reappears after each use, keeping NukeIT armed and read
 
 ---
 
+## 🔐 Why not just Win+D? — SecondStepSecurity
+
+**Win+D hides it. NukeIT ends it.**
+
+Clicking the anchor puts the SafetyScreen up on all monitors and at the same time WindowNuker goes to work — first a polite close to every app window, then, 150 milliseconds later, it outright kills any process still holding a visible window. Explorer survives on purpose, so the desktop itself stays alive.
+
+ESC doesn't "unhide" anything. It only closes the SafetyScreen. By then the original programs are gone — process ended, not tucked away.
+
+There is no second press that brings them back. The toggle doesn't exist.
+
+---
+
 ## 🎮 Controls
 
 | Action | Result |
@@ -67,6 +79,8 @@ The anchor automatically reappears after each use, keeping NukeIT armed and read
 ## ⚠️ Warning
 
 NukeIT immediately closes most running applications. It does **not** restore them. Unsaved work will be lost.
+
+**Disclaimer:** NukeIT closes your open browsers, but it does not erase history. Proper browser configuration is required to address history.
 
 **Known limitations:**
 - Some administrator-level (elevated) applications may not close
