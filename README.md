@@ -80,7 +80,7 @@ There is no second press that brings them back. The toggle doesn't exist.
 
 NukeIT immediately closes most running applications. It does **not** restore them. Unsaved work will be lost.
 
-**Disclaimer:** NukeIT closes your open browsers, but it does not erase history. Proper browser configuration is required to address history. NukeIt closes your open browsers, some folder, most programs and other running objects, but it does not kill everything. Some folders and artifacts will remain on screen. Ensure you understand NukeIt's affect before using it in an elevated situation.
+**Disclaimer:** NukeIT closes your open browsers, but it does not erase history. Proper browser configuration is required to address history. NukeIt closes your open browsers, some folders, most programs and other running objects but it does not kill everything. Some folders and artifacts will remain on screen. Ensure you understand NukeIt's affect before using it in an elevated situation. For example, a misconfigured .docx will not be saved during the NukeIt cycle.
 
 **Known limitations:**
 - Some administrator-level (elevated) applications may not close
