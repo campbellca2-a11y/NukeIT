@@ -12,7 +12,7 @@ Press ESC → return to normal.
 
 ## 📥 Download
 
-👉 [Download NukeIT v1.1 (Windows • No Install • Runs Local)](https://drive.google.com/drive/folders/1ver5NqOLDj89V-4u0AYFLyTbf1lEu6ru)
+👉 [Download NukeIT v1.1 (Windows • No Install • Runs Local)](https://github.com/campbellca2-a11y/NukeIT/releases/download/v1.1/NukeIT_v1.1_release.zip)
 
 First run may trigger a Windows SmartScreen warning (unsigned app). This is expected.  
 Click "More info" → "Run anyway".
@@ -108,3 +108,9 @@ NukeIT gives you immediate control — fast, local, and without friction.
 
 v1.1 — Stable core release  
 More features coming based on real-world use.
+
+---
+
+## 📄 License
+
+MIT — see [LICENSE](LICENSE) for details.
